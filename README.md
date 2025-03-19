@@ -32,5 +32,3 @@ The **Pharmacy POS System** is a **Windows Forms (.NET Framework 4.8) applicatio
 This project is **open-source for reference purposes only**. You are **not permitted** to copy, modify, or distribute it without permission.  
 
 ---
-
-Let me know if you want any modifications! 🚀
